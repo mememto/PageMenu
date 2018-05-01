@@ -291,6 +291,7 @@
 				TargetAttributes = {
 					A616A0301A603D68008CE0F6 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = DS7FGTXRDP;
 						LastSwiftMigration = 0820;
 					};
 					A616A0451A603D69008CE0F6 = {
@@ -515,6 +516,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DS7FGTXRDP;
 				INFOPLIST_FILE = PageMenuDemoTabbar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "caps.ua.edu.$(PRODUCT_NAME:rfc1034identifier)";
@@ -528,6 +530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DS7FGTXRDP;
 				INFOPLIST_FILE = PageMenuDemoTabbar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "caps.ua.edu.$(PRODUCT_NAME:rfc1034identifier)";
